@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\bin\Debug\net6.0\AddSender.exe
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\bin\Debug\net6.0\AddSender.deps.json
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\bin\Debug\net6.0\AddSender.runtimeconfig.json
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\bin\Debug\net6.0\AddSender.dll
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\bin\Debug\net6.0\ref\AddSender.dll
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\bin\Debug\net6.0\AddSender.pdb
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.dll
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\ref\AddSender.dll
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.pdb
+C:\Users\Szymon\Desktop\zadania zpo\Ćwiczenia2\AddSender\AddSender\obj\Debug\net6.0\AddSender.genruntimeconfig.cache
