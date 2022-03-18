@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\bin\Debug\net6.0\CarSpeed.exe
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\bin\Debug\net6.0\CarSpeed.deps.json
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\bin\Debug\net6.0\CarSpeed.runtimeconfig.json
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\bin\Debug\net6.0\CarSpeed.dll
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\bin\Debug\net6.0\ref\CarSpeed.dll
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\bin\Debug\net6.0\CarSpeed.pdb
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.dll
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\ref\CarSpeed.dll
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.pdb
+C:\Users\Szymon\Desktop\zadania zpo\CarSpeed\CarSpeed\obj\Debug\net6.0\CarSpeed.genruntimeconfig.cache
